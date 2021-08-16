@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 个人介绍 </h3>
 
-- 🔭 &nbsp;目前正在学习React相关知识
+- 🔭 &nbsp;目前正在看Web前端相关书籍，努力提升自己
 - 💼 &nbsp;web前端工程师
 - 🎓 &nbsp;本科电子信息工程专业，出于兴趣自学转行
 - 🌱 &nbsp;热衷于编写的程序满足自身需求
@@ -13,7 +13,7 @@
 
 <h3>🛠 技术栈</h3>
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | VueJs | UniApp | 微信小程序 | Android
+- 🌐 &nbsp; HTML | CSS | JavaScript | VueJs | UniApp | 微信小程序 | Android | React
 - 💻 &nbsp; NodeJS | Python | Java | C 
 - 🛢 &nbsp; MongoDB| MySQL | Unicloud
 - 🔧 &nbsp; Visual Studio code | Hbuilder X | 微信开发者工具 | Android Studio | Git
